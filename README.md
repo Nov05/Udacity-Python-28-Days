@@ -11,4 +11,4 @@ https://youtu.be/_XOoHSQIkkw
 ## Fun results
 
 Afther Lesson 3, you will be able to draw the following shapes.
-<img scr="https://video.udacity-data.com/topher/2017/November/5a0a2707_rainbow-examples/rainbow-examples.png">
+<img scr="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/rainbow-examples.png?raw=true">
