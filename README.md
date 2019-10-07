@@ -4,8 +4,12 @@ This is a repository for Udacity online course "Learn Python in 28 Days".
 Instructors: Karl Krueger, Kelly Howard
 
 ## Course Practice
-Lesson 3 Colab Notebook    
+Lesson 3 Turtle - Colab Notebook    
 https://colab.research.google.com/drive/1KMk72MX5igJiWGEZkIdvEzIZ7kg-hPo9    
+Lesson 8 Strings - Colab Notebook   
+https://drive.google.com/open?id=1clAAu4dFw7pauqX7fEFIDl7DXfspuwE5    
+Lesson 9 Analysis WeChat Friends - Colab Notebook   
+https://colab.research.google.com/drive/14b24yWmLVfPvnj-jN_hd4Jtl7Vg-QjPD
 
 ## Course Content
 
@@ -102,10 +106,31 @@ https://youtu.be/b94UNRKfXQw
 
 8.1 Welcome back   
 https://youtu.be/wqlcbyo_2mk   
+8.2 Variable and literal    
+https://youtu.be/vY2-hj-HvVs   
+8.3 Review of string   
+https://youtu.be/qQj9ITD1Rh4   
+8.28 Practice: Making sentences     
+https://youtu.be/DnUBa-LUo3A
 
-  
+9.1 Python files    
+https://youtu.be/DrmZ4SL6NCo   
 
 ## Fun results
 
 Afther Lesson 3, you will be able to draw the following shapes.
-<img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/rainbow-examples.png?raw=true">
+<img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/rainbow-examples.png?raw=true">   
+
+Lesson 8 Silly sentence generator  
+```
+If you jumped the apple, the unicorn will get you.
+The yak jumped the goat.
+If you inked the x-ray, the house will get you.
+The monkey fed the llama.
+Waiter! I found a robot in my octopus!
+Waiter! I found a tofu in my x-ray!
+Colorless green x-rays rushed furiously.
+Waiter! I found a tofu in my goat!
+If you knitted the monkey, the tofu will get you.
+Colorless green unicorns caught furiously.
+```
