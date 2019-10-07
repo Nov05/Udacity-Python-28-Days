@@ -139,8 +139,22 @@ if __name__ == '__main__':
 https://youtu.be/3GAJlxbhXuk   
 9.12 Pycodestyle   
 https://youtu.be/LZnjWP9EF6w    
-9.13 Practice: Dirty word filter   
+9.13 Practice: Rude word filter   
 https://youtu.be/nBC35OSfiKM  
+9.14 Plan "rude word fitler" solutions      
+https://youtu.be/6hnH_3WaYgI   
+9.15 Open and read a file    
+https://youtu.be/vxw1UkVVG2s   
+9.16 Close a file      
+https://youtu.be/-XeSgWp4IDA   
+9.17 A very slow solution   
+https://youtu.be/aLxa050TV2s   
+9.18 Read one word at a time   
+https://youtu.be/IO82p2b2bc4  
+
+
+
+
 
 
 ## Fun results
