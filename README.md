@@ -134,3 +134,7 @@ Waiter! I found a tofu in my goat!
 If you knitted the monkey, the tofu will get you.
 Colorless green unicorns caught furiously.
 ```
+Lesson 9 WeChat Friends Status Word Cloud   
+<img scr="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/wechatfriends_wordcloud.png?raw=true">
+
+
