@@ -92,7 +92,7 @@ https://youtu.be/mMFWk8poeEo
 https://youtu.be/NAKB-xSDcL8   
 7.4 Python in the terminal   
 https://youtu.be/6SnlDref900   
-https://youtu.be/ob82UJe3CJg   
+ttps://youtu.be/ob82UJe3CJg   
 https://youtu.be/j9kFaTroG-Y    
 https://youtu.be/iKeHgxNXs6w    
 7.5 Interaction mode (Compiler)   
@@ -114,7 +114,34 @@ https://youtu.be/qQj9ITD1Rh4
 https://youtu.be/DnUBa-LUo3A
 
 9.1 Python files    
-https://youtu.be/DrmZ4SL6NCo   
+https://youtu.be/DrmZ4SL6NCo  
+9.2 Practice: Organize your photos 
+https://youtu.be/0E5emNEtN-o 
+9.3 Solution to photo problem   
+https://youtu.be/z5vmzOemnD8   
+9.4. OS Module   
+https://youtu.be/OV9OczW4MeY     
+9.5 File and directory functions   
+https://youtu.be/emrOq6uWqVo   
+9.6 Relative path and working directory   
+https://youtu.be/V-6HnY6BL9Y     
+9.7 OS functions and shell commands   
+https://youtu.be/HzPHAFFcJPo
+9.8 Split file name   
+https://youtu.be/breYyDpTEU8   
+9.9 Create location directories   
+https://youtu.be/NOC6JiN49Dk   
+9.10 Organize photos   
+https://youtu.be/2V-sqfHjoj0   
+9.11 Dunder variables      
+if __name__ == '__main__':
+    function()
+https://youtu.be/3GAJlxbhXuk   
+9.12 Pycodestyle   
+https://youtu.be/LZnjWP9EF6w    
+9.13 Practice: Dirty word filter   
+https://youtu.be/nBC35OSfiKM  
+
 
 ## Fun results
 
