@@ -4,21 +4,6 @@ This is a repository for Udacity online course "Learn Python in 28 Days".
 Instructors: Karl Krueger, Kelly Howard
 
 
-
-## Course Practice
-Lesson 3 Turtle - Colab Notebook    
-https://colab.research.google.com/drive/1KMk72MX5igJiWGEZkIdvEzIZ7kg-hPo9    
-Lesson 8 Silly Sentence Generator - Colab Notebook   
-https://drive.google.com/open?id=1clAAu4dFw7pauqX7fEFIDl7DXfspuwE5    
-Lesson 9 Analyse WeChat Friends - Colab Notebook   
-https://colab.research.google.com/drive/14b24yWmLVfPvnj-jN_hd4Jtl7Vg-QjPD    
-Lesson 13 Rock, Paper, Scissors - Colab Notebook    
-https://colab.research.google.com/drive/1JCQv3VcF_deTMjrxmhCJaNAGLf467diR      
-Lesson 14 Analyse Alipay Records - Colab Notebook    
-https://colab.research.google.com/drive/1wZZ5KWAGKZolCfulh634QiUlSyb8UYgD    
-
-
-
 ## Course Content
 
 Lesson 1 Pre-course   
@@ -33,9 +18,23 @@ Lesson 9 Practice: Check WeChat friends
 Lesson 10 Manage files in your computer   
 Lesson 11 Web API   
 Lesson 12 Object and class  
-Lesson 13 Rock, scissor, paper    
+Lesson 13 Practice: Rock, scissor, paper    
 Lesson 14 Practice: Analysis Alipay bills   
-Lesson 15 Web Crawler  
+Lesson 15 Practice: Web Crawler  
+
+
+
+## Course Practice
+Lesson 3 Turtle - Colab Notebook    
+https://colab.research.google.com/drive/1KMk72MX5igJiWGEZkIdvEzIZ7kg-hPo9    
+Lesson 8 Silly Sentence Generator - Colab Notebook   
+https://drive.google.com/open?id=1clAAu4dFw7pauqX7fEFIDl7DXfspuwE5    
+Lesson 9 Analyse WeChat Friends - Colab Notebook   
+https://colab.research.google.com/drive/14b24yWmLVfPvnj-jN_hd4Jtl7Vg-QjPD    
+Lesson 13 Rock, Paper, Scissors - Colab Notebook    
+https://colab.research.google.com/drive/1JCQv3VcF_deTMjrxmhCJaNAGLf467diR      
+Lesson 14 Analyse Alipay Records - Colab Notebook    
+https://colab.research.google.com/drive/1wZZ5KWAGKZolCfulh634QiUlSyb8UYgD  
 
 
 
@@ -235,8 +234,26 @@ https://github.com/udacity/ipnd_rps_starter_code
 [Instruactions (in Chinese)](https://github.com/Nov05/Udacity-Python-28-Days/blob/master/contents/lesson%2014%20instructions.md)   
 
 15.1 Practice: Wikepedia Crawler   
-https://youtu.be/osrplIl1m-k    
-   
+https://youtu.be/osrplIl1m-k  
+15.2 Use development tool to explore HTML   
+anchor tag   
+```
+<a href="https://en.wikipedia.org/wiki/Cat">Learn more about cats!</a>
+```  
+https://youtu.be/YWbCvLCBQrg     
+15.3 Use Python to get HTML 
+```
+import requests
+response = requests.get('https://en.wikipedia.org/wiki/Dead_Parrot_sketch')
+if response.status_code == 200:
+    print(type(response.text))
+    print(response.text[:200])
+```   
+https://youtu.be/1Y_CZyKNWe4    
+15.4 BeautifulSoap   
+https://youtu.be/dk7ESZXLnk4       
+
+
 
 ## Fun results
 
