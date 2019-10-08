@@ -3,6 +3,8 @@ This is a repository for Udacity online course "Learn Python in 28 Days".
 
 Instructors: Karl Krueger, Kelly Howard
 
+
+
 ## Course Practice
 Lesson 3 Turtle - Colab Notebook    
 https://colab.research.google.com/drive/1KMk72MX5igJiWGEZkIdvEzIZ7kg-hPo9    
@@ -10,6 +12,11 @@ Lesson 8 Silly Sentence Generator - Colab Notebook
 https://drive.google.com/open?id=1clAAu4dFw7pauqX7fEFIDl7DXfspuwE5    
 Lesson 9 Analyse WeChat Friends - Colab Notebook   
 https://colab.research.google.com/drive/14b24yWmLVfPvnj-jN_hd4Jtl7Vg-QjPD
+Lesson 13 Rock, Paper, Scissors - Colab Notebook   
+https://colab.research.google.com/drive/1JCQv3VcF_deTMjrxmhCJaNAGLf467diR   
+
+
+
 
 ## Course Content
 
@@ -28,6 +35,8 @@ Lesson 12 Object and class
 Lesson 13 Rock, scissor, paper    
 Lesson 14 Practice: Analysis Alipay bills   
 Lesson 15 Web Crawler  
+
+
 
 ## Course Videos 
 
@@ -162,36 +171,67 @@ https://youtu.be/a4VN2cC8o_8
 9.22 All set   
 https://youtu.be/IYqDBlvOz-U  
 
-10.1 Welcome to Web API - Practice: You own weather forecast   
+11.1 Welcome to Web API - Practice: You own weather forecast   
 https://youtu.be/PZPYOiuAZ-w  
-10.2 Get weather data   
+11.2 Get weather data   
 https://www.metaweather.com/api/location/search/?query=new%20york
 https://www.metaweather.com/api/location/<WOEID>   
 https://youtu.be/9YGlbDpWsgI  
-10.3 Requests module   
+11.3 Requests module   
 https://youtu.be/RF03od5ubxE    
-10.4 Send requests   
+11.4 Send requests   
 https://youtu.be/1Ouu6aJ1ogE   
-10.5 Why error code?   
+11.5 Why error code?   
 https://youtu.be/TcGVaWILZBo  
-10.6 Try and except   
+11.6 Try and except   
 https://youtu.be/bV6ZgXwL9Dk  
-10.7 What is JSON?   
+11.7 What is JSON?   
 https://youtu.be/fAUKOb6igVw   
-10.8 Dictionary 
+11.8 Dictionary 
 https://youtu.be/3uT-K_5zO0U   
-10.9 Dictionary   
+11.9 Dictionary   
 https://youtu.be/w2X3NjF48Ss   
-10.10 Get data    
+11.10 Get data    
 https://youtu.be/Ado3PKsXy_g   
-10.24 Weather forecast   
+11.24 Weather forecast   
 https://youtu.be/od7HFSpPfxE   
-10.25 Summary   
+11.25 Summary   
 https://youtu.be/k5qwyFYvCy0  
   
+
+12.1 Object and class    
+https://youtu.be/vQAnoyoDY4E    
+12.3 Each object belongs to a class   
+https://youtu.be/xR0CRnHuU6w   
+12.4 Python class vs. CSS class  
+https://youtu.be/6_R0ovLBMxk   
+12.5 Define a class    
+https://youtu.be/pe_x3fIrFn4    
+12.7 Class variables   
+https://youtu.be/wHRY7qVCH2E   
+12.8 Instance variables  
+https://youtu.be/SEEgIFai-6o   
+12.9 Initializer    
+https://youtu.be/nLs44xJYYcI    
+12.10 Store information 
+https://youtu.be/TA2kT-rjWSw    
+https://youtu.be/Ezd5aIKZvHs    
+12.11 Inheritance     
+https://youtu.be/tTtkJWK_oTM   
+12.12 "Is-a" and "Has-a"   
+https://youtu.be/owYLz2tXQVA   
+https://youtu.be/lHZXxa-r98A    
+12.13 Use super    
+https://youtu.be/5cWvU0lk1yE    
+12.14 Congrats!   
+https://youtu.be/P4j6PHeurA0    
+
 13.2 Github repo of Rock, paper, scissors   
 You code starts from here. [Instruction](https://github.com/Nov05/Udacity-Python-28-Days/blob/master/contents/Lesson%2013%20instructions.md)     
-https://github.com/udacity/ipnd_rps_starter_code     
+https://github.com/udacity/ipnd_rps_starter_code  
+
+
+   
 
 ## Fun results
 
