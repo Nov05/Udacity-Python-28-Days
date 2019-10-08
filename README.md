@@ -174,9 +174,9 @@ https://youtu.be/IYqDBlvOz-U
 
 11.1 Welcome to Web API - Practice: You own weather forecast   
 https://youtu.be/PZPYOiuAZ-w  
-11.2 Get weather data   
-https://www.metaweather.com/api/location/search/?query=new%20york
-https://www.metaweather.com/api/location/<WOEID>   
+11.2 Get weather data     
+`https://www.metaweather.com/api/location/search/?query=new%20york`    
+`https://www.metaweather.com/api/location/<WOEID>`     
 https://youtu.be/9YGlbDpWsgI  
 11.3 Requests module   
 https://youtu.be/RF03od5ubxE    
