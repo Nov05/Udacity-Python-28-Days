@@ -11,11 +11,11 @@ https://colab.research.google.com/drive/1KMk72MX5igJiWGEZkIdvEzIZ7kg-hPo9
 Lesson 8 Silly Sentence Generator - Colab Notebook   
 https://drive.google.com/open?id=1clAAu4dFw7pauqX7fEFIDl7DXfspuwE5    
 Lesson 9 Analyse WeChat Friends - Colab Notebook   
-https://colab.research.google.com/drive/14b24yWmLVfPvnj-jN_hd4Jtl7Vg-QjPD
-Lesson 13 Rock, Paper, Scissors - Colab Notebook   
-https://colab.research.google.com/drive/1JCQv3VcF_deTMjrxmhCJaNAGLf467diR   
-Lesson 14 Analyse Alipay Records - Colab Notebook   
-https://colab.research.google.com/drive/1wZZ5KWAGKZolCfulh634QiUlSyb8UYgD   
+https://colab.research.google.com/drive/14b24yWmLVfPvnj-jN_hd4Jtl7Vg-QjPD    
+Lesson 13 Rock, Paper, Scissors - Colab Notebook    
+https://colab.research.google.com/drive/1JCQv3VcF_deTMjrxmhCJaNAGLf467diR      
+Lesson 14 Analyse Alipay Records - Colab Notebook    
+https://colab.research.google.com/drive/1wZZ5KWAGKZolCfulh634QiUlSyb8UYgD    
 
 
 
@@ -259,5 +259,8 @@ Colorless green unicorns caught furiously.
 
 Lesson 9 WeChat Friends Status Word Cloud   
 <img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/wechatfriends_wordcloud_tiny.png?raw=true">
+
+Lesson 10 Play "Rock, Paper, Scissors" in Google Colab   
+<img src="" width=500>
 
 
