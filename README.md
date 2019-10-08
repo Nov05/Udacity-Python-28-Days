@@ -69,9 +69,9 @@ https://youtu.be/Lqpn7C-RBzY
 https://youtu.be/9yEiInrUQAU   
 3.22 Nested loos   
 https://youtu.be/TmnSQqfTvws  
-3.23 Review turtle methods     
-https://docs.python.org/3/library/turtle.html   
-https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b33f222_ipnd-reference-sheet-turtle-methods/ipnd-reference-sheet-turtle-methods.pdf  
+3.23 Review turtle methods    
+[IPND Reference Sheet Turtle Methods](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b33f222_ipnd-reference-sheet-turtle-methods/ipnd-reference-sheet-turtle-methods.pdf)    
+https://docs.python.org/3/library/turtle.html      
 3.29 Draw a rainbow   
 https://youtu.be/jV_0sC9BVUw   
 https://youtu.be/P50aMPx-zYI    
@@ -125,19 +125,19 @@ https://youtu.be/DnUBa-LUo3A
 
 9.1 Python files    
 https://youtu.be/DrmZ4SL6NCo  
-9.2 Practice: Organize your photos 
-https://youtu.be/0E5emNEtN-o 
-9.3 Solution to photo problem   
-https://youtu.be/z5vmzOemnD8   
-9.4. OS Module   
+9.2 Practice: Organize your photos   
+https://youtu.be/0E5emNEtN-o   
+9.3 Solution to photo problem     
+https://youtu.be/z5vmzOemnD8     
+9.4. OS Module    
 https://youtu.be/OV9OczW4MeY     
 9.5 File and directory functions   
 https://youtu.be/emrOq6uWqVo   
 9.6 Relative path and working directory   
 https://youtu.be/V-6HnY6BL9Y     
-9.7 OS functions and shell commands   
-https://youtu.be/HzPHAFFcJPo
-9.8 Split file name   
+9.7 OS functions and shell commands      
+https://youtu.be/HzPHAFFcJPo   
+9.8 Split file name    
 https://youtu.be/breYyDpTEU8   
 9.9 Create location directories   
 https://youtu.be/NOC6JiN49Dk   
@@ -162,10 +162,10 @@ https://youtu.be/-XeSgWp4IDA
 9.17 A very slow solution   
 https://youtu.be/aLxa050TV2s   
 9.18 Read one word at a time   
-https://youtu.be/IO82p2b2bc4  
-9.19 Fix the punctuation bug   
+https://youtu.be/IO82p2b2bc4    
+9.19 Fix the punctuation bug      
 https://youtu.be/1naRrb3i28k
-9.20 Fix the uppercase bug   
+9.20 Fix the uppercase bug      
 https://youtu.be/wn4RVpzIyo8   
 9.21 Write output into a file  
 https://youtu.be/a4VN2cC8o_8    
@@ -213,10 +213,10 @@ https://youtu.be/wHRY7qVCH2E
 12.8 Instance variables  
 https://youtu.be/SEEgIFai-6o   
 12.9 Initializer    
-https://youtu.be/nLs44xJYYcI    
-12.10 Store information 
-https://youtu.be/TA2kT-rjWSw    
-https://youtu.be/Ezd5aIKZvHs    
+https://youtu.be/nLs44xJYYcI       
+12.10 Store information    
+https://youtu.be/TA2kT-rjWSw        
+https://youtu.be/Ezd5aIKZvHs      
 12.11 Inheritance     
 https://youtu.be/tTtkJWK_oTM   
 12.12 "Is-a" and "Has-a"   
@@ -228,7 +228,7 @@ https://youtu.be/5cWvU0lk1yE
 https://youtu.be/P4j6PHeurA0    
 
 13.2 Github repo of Rock, paper, scissors   
-You code starts from here. [Instructions](https://github.com/Nov05/Udacity-Python-28-Days/blob/master/contents/Lesson%2013%20instructions.md)     
+[Instructions (in Chinese)](https://github.com/Nov05/Udacity-Python-28-Days/blob/master/contents/Lesson%2013%20instructions.md)     
 https://github.com/udacity/ipnd_rps_starter_code  
 
 14 Analyse Alipay Records   
