@@ -190,7 +190,7 @@ https://youtu.be/od7HFSpPfxE
 https://youtu.be/k5qwyFYvCy0  
   
 13.2 Github repo of Rock, paper, scissors   
-you code starts from here   
+You code starts from here. [Instruction](https://github.com/Nov05/Udacity-Python-28-Days/blob/master/contents/Lesson%2013%20instructions.md)     
 https://github.com/udacity/ipnd_rps_starter_code     
 
 ## Fun results
