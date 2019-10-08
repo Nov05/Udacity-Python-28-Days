@@ -261,7 +261,7 @@ Lesson 9 WeChat Friends Status Word Cloud
 <img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/wechatfriends_wordcloud_tiny.png?raw=true">
 
 Lesson 10 Play "Rock, Paper, Scissors" in Google Colab   
-<img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/2019-10-08%2010_02_12-2019-10-08%20Rock,%20Paper,%20Scissors.ipynb%20-%20Colaboratory.png?raw=true">
+<img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/2019-10-08%2010_02_12-2019-10-08%20Rock,%20Paper,%20Scissors.ipynb%20-%20Colaboratory.png?raw=true" width=500>
 
 
 
