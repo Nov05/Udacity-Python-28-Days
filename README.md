@@ -14,7 +14,8 @@ Lesson 9 Analyse WeChat Friends - Colab Notebook
 https://colab.research.google.com/drive/14b24yWmLVfPvnj-jN_hd4Jtl7Vg-QjPD
 Lesson 13 Rock, Paper, Scissors - Colab Notebook   
 https://colab.research.google.com/drive/1JCQv3VcF_deTMjrxmhCJaNAGLf467diR   
-
+Lesson 14 Analyse Alipay Records - Colab Notebook   
+https://colab.research.google.com/drive/1wZZ5KWAGKZolCfulh634QiUlSyb8UYgD   
 
 
 
@@ -227,10 +228,14 @@ https://youtu.be/5cWvU0lk1yE
 https://youtu.be/P4j6PHeurA0    
 
 13.2 Github repo of Rock, paper, scissors   
-You code starts from here. [Instruction](https://github.com/Nov05/Udacity-Python-28-Days/blob/master/contents/Lesson%2013%20instructions.md)     
+You code starts from here. [Instructions](https://github.com/Nov05/Udacity-Python-28-Days/blob/master/contents/Lesson%2013%20instructions.md)     
 https://github.com/udacity/ipnd_rps_starter_code  
 
+14 Analyse Alipay Records   
+[Instruactions (in Chinese)](https://github.com/Nov05/Udacity-Python-28-Days/blob/master/contents/lesson%2014%20instructions.md)   
 
+15.1 Practice: Wikepedia Crawler   
+https://youtu.be/osrplIl1m-k    
    
 
 ## Fun results
