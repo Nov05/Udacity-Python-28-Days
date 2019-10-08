@@ -9,9 +9,7 @@ https://colab.research.google.com/drive/1KMk72MX5igJiWGEZkIdvEzIZ7kg-hPo9
 Lesson 8 Silly Sentence Generator - Colab Notebook   
 https://drive.google.com/open?id=1clAAu4dFw7pauqX7fEFIDl7DXfspuwE5    
 Lesson 9 Analyse WeChat Friends - Colab Notebook   
-https://colab.research.google.com/drive/14b24yWmLVfPvnj-jN_hd4Jtl7Vg-QjPD   
-Lesson 11 Weather Forecast - Colab Notebook   
-https://colab.research.google.com/drive/1bgVnQeh3xL8_G__3KHLwQZ0PBKrs52R2   
+https://colab.research.google.com/drive/14b24yWmLVfPvnj-jN_hd4Jtl7Vg-QjPD
 
 ## Course Content
 
@@ -191,6 +189,9 @@ https://youtu.be/od7HFSpPfxE
 10.25 Summary   
 https://youtu.be/k5qwyFYvCy0  
   
+13.2 Github repo of Rock, paper, scissors   
+you code starts from here   
+https://github.com/udacity/ipnd_rps_starter_code     
 
 ## Fun results
 
