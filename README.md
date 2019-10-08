@@ -6,9 +6,9 @@ Instructors: Karl Krueger, Kelly Howard
 ## Course Practice
 Lesson 3 Turtle - Colab Notebook    
 https://colab.research.google.com/drive/1KMk72MX5igJiWGEZkIdvEzIZ7kg-hPo9    
-Lesson 8 Strings - Colab Notebook   
+Lesson 8 Silly Sentence Generator - Colab Notebook   
 https://drive.google.com/open?id=1clAAu4dFw7pauqX7fEFIDl7DXfspuwE5    
-Lesson 9 Analysis WeChat Friends - Colab Notebook   
+Lesson 9 Analyse WeChat Friends - Colab Notebook   
 https://colab.research.google.com/drive/14b24yWmLVfPvnj-jN_hd4Jtl7Vg-QjPD
 
 ## Course Content
@@ -133,9 +133,11 @@ https://youtu.be/breYyDpTEU8
 https://youtu.be/NOC6JiN49Dk   
 9.10 Organize photos   
 https://youtu.be/2V-sqfHjoj0   
-9.11 Dunder variables      
-if __name__ == '__main__':
-    function()
+9.11 Dunder variables 
+```     
+if __name__ == '__main__':       
+    function()   
+```    
 https://youtu.be/3GAJlxbhXuk   
 9.12 Pycodestyle   
 https://youtu.be/LZnjWP9EF6w    
@@ -151,18 +153,49 @@ https://youtu.be/-XeSgWp4IDA
 https://youtu.be/aLxa050TV2s   
 9.18 Read one word at a time   
 https://youtu.be/IO82p2b2bc4  
+9.19 Fix the punctuation bug   
+https://youtu.be/1naRrb3i28k
+9.20 Fix the uppercase bug   
+https://youtu.be/wn4RVpzIyo8   
+9.21 Write output into a file  
+https://youtu.be/a4VN2cC8o_8    
+9.22 All set   
+https://youtu.be/IYqDBlvOz-U  
 
-
-
-
-
+10.1 Welcome to Web API - Practice: You own weather forecast   
+https://youtu.be/PZPYOiuAZ-w  
+10.2 Get weather data   
+https://www.metaweather.com/api/location/search/?query=new%20york
+https://www.metaweather.com/api/location/<WOEID>   
+https://youtu.be/9YGlbDpWsgI  
+10.3 Requests module   
+https://youtu.be/RF03od5ubxE    
+10.4 Send requests   
+https://youtu.be/1Ouu6aJ1ogE   
+10.5 Why error code?   
+https://youtu.be/TcGVaWILZBo  
+10.6 Try and except   
+https://youtu.be/bV6ZgXwL9Dk  
+10.7 What is JSON?   
+https://youtu.be/fAUKOb6igVw   
+10.8 Dictionary 
+https://youtu.be/3uT-K_5zO0U   
+10.9 Dictionary   
+https://youtu.be/w2X3NjF48Ss   
+10.10 Get data    
+https://youtu.be/Ado3PKsXy_g   
+10.24 Weather forecast   
+https://youtu.be/od7HFSpPfxE   
+10.25 Summary   
+https://youtu.be/k5qwyFYvCy0  
+  
 
 ## Fun results
 
 Afther Lesson 3, you will be able to draw the following shapes.
 <img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/rainbow-examples.png?raw=true">   
 
-Lesson 8 Silly sentence generator  
+Lesson 8 Silly Sentence Generator  
 ```
 If you jumped the apple, the unicorn will get you.
 The yak jumped the goat.
@@ -175,6 +208,7 @@ Waiter! I found a tofu in my goat!
 If you knitted the monkey, the tofu will get you.
 Colorless green unicorns caught furiously.
 ```
+
 Lesson 9 WeChat Friends Status Word Cloud   
 <img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/wechatfriends_wordcloud_tiny.png?raw=true">
 
