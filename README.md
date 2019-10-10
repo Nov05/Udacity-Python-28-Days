@@ -224,7 +224,7 @@ https://youtu.be/lHZXxa-r98A
 12.13 Use super    
 https://youtu.be/5cWvU0lk1yE    
 12.14 Congrats!   
-https://youtu.be/P4j6PHeurA0    
+https://youtu.be/P4j6PHeurA0     
 
 13.2 Github repo of Rock, paper, scissors   
 [Instructions (in Chinese)](https://github.com/Nov05/Udacity-Python-28-Days/blob/master/contents/Lesson%2013%20instructions.md)     
@@ -236,12 +236,9 @@ https://github.com/udacity/ipnd_rps_starter_code
 15.1 Practice: Wikepedia Crawler   
 https://youtu.be/osrplIl1m-k  
 15.2 Use development tool to explore HTML   
-anchor tag   
-```
-<a href="https://en.wikipedia.org/wiki/Cat">Learn more about cats!</a>
-```  
+anchor tag `<a href="https://en.wikipedia.org/wiki/Cat">Learn more about cats!</a>`        
 https://youtu.be/YWbCvLCBQrg     
-15.3 Use Python to get HTML 
+Use Python to get HTML 
 ```
 import requests
 response = requests.get('https://en.wikipedia.org/wiki/Dead_Parrot_sketch')
@@ -250,9 +247,19 @@ if response.status_code == 200:
     print(response.text[:200])
 ```   
 https://youtu.be/1Y_CZyKNWe4    
-15.4 BeautifulSoap   
+BeautifulSoap   
 https://youtu.be/dk7ESZXLnk4       
-
+15.4. Execute program   
+Colaboration 
+`while continue_crawl(search_history, target_url):`   
+```
+continue_crawl(['https://en.wikipedia.org/wiki/Floating_point'],
+                       'https://en.wikipedia.org/wiki/Philosophy')
+```
+https://youtu.be/tLhTfSZ6LRA   
+15.5 Execute program   
+https://youtu.be/cFwJ_MO3ofs   
+https://youtu.be/MRPdqOwnqag    
 
 
 ## Fun results
