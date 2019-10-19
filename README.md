@@ -7,7 +7,7 @@
 This is a repository for Udacity online course "Learn Python in 28 Days".   
 This course is designed for people who don't have any programming experience.  
 
-P.S. There is also a similar free course "Introduction to Python Programming". In that course, you'll learn the fundamentals of the Python programming language, along with programming best practices.
+P.S. There is also a similar free course "Introduction to Python Programming". In that course, you'll learn the fundamentals of the Python programming language, along with programming best practices.      
 https://www.udacity.com/course/introduction-to-python--ud1110   
 
 
