@@ -379,5 +379,8 @@ https://youtu.be/yGDHoIOfwt8
 https://youtu.be/jiZwuN6zTFs   
 
 
+# Logs
+
+2019-10-19 all content updated    
 
 
