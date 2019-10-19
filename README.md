@@ -1,5 +1,7 @@
 # Udacity-Python-28-Days
-This is a repository for Udacity online course "Learn Python in 28 Days".
+
+This is a repository for Udacity online course "Learn Python in 28 Days".   
+This course is designed for people who don't have any programming experience.   
 
 Instructors: Karl Krueger, Kelly Howard
 
@@ -26,7 +28,9 @@ Lesson 15 Practice: Web Crawler
 
 ## Course Practice
 Lesson 3 Turtle - Colab Notebook    
-https://colab.research.google.com/drive/1KMk72MX5igJiWGEZkIdvEzIZ7kg-hPo9    
+https://colab.research.google.com/drive/1KMk72MX5igJiWGEZkIdvEzIZ7kg-hPo9   
+Lesson 6 Mortgage Calculator - Colab Notebook      
+https://colab.research.google.com/drive/1-LmSGX3F-sbWF0jLxA7naanz4gor3UR-    
 Lesson 8 Silly Sentence Generator - Colab Notebook   
 https://drive.google.com/open?id=1clAAu4dFw7pauqX7fEFIDl7DXfspuwE5    
 Lesson 9 Analyse WeChat Friends - Colab Notebook   
@@ -35,7 +39,8 @@ Lesson 13 Rock, Paper, Scissors - Colab Notebook
 https://colab.research.google.com/drive/1JCQv3VcF_deTMjrxmhCJaNAGLf467diR      
 Lesson 14 Analyse Alipay Records - Colab Notebook    
 https://colab.research.google.com/drive/1wZZ5KWAGKZolCfulh634QiUlSyb8UYgD  
-
+Lesson 15 Web Crawler   
+https://colab.research.google.com/drive/16fJsaxO3WCfjIAUvSWRVqRXLYbFgAyv9    
 
 
 ## Course Videos 
@@ -92,6 +97,37 @@ https://youtu.be/p7MUmfg68x0
 https://youtu.be/yE1drVmNC7E    
 4.9 Function Arguments   
 https://youtu.be/5ehq3NN7rIw   
+4.15 Variables in funcion    
+https://youtu.be/AipHADxHuvo   
+
+5.1. If this equals to that   
+https://youtu.be/iLCDdu6Zugo   
+5.5 Mod  
+https://youtu.be/XN18DdE4B14  
+5.6 Mod   
+https://youtu.be/LIPizPJKKjM   
+5.7 Fizz Buzz, turtle version   
+https://youtu.be/-uSNPbUdSag   
+5.8 Return   
+https://youtu.be/AT54fz6fqOg  
+5.9 Return   
+https://youtu.be/f7UawEhi3Xo   
+https://youtu.be/rSTfCQ_CTt4    
+5.10 Travesal function   
+https://youtu.be/v7on5PvGOXE   
+5.13 random module   
+https://youtu.be/IPGCcHkgxUM   
+5.14 if   
+https://youtu.be/UpujSAJZt5g   
+5.15 if-else   
+https://youtu.be/K3x-4gxoSNM 
+5.16 Stay on the screen         
+https://youtu.be/2nN3bK14H0U    
+5.17 Practice: vacuumTurtle   
+https://youtu.be/bWe9dHzhnyI   
+https://youtu.be/U6Yl_N0iTqQ    
+
+
 
 7.1 Install Python   
 https://youtu.be/qSFulFUdJHo   
@@ -119,6 +155,42 @@ https://youtu.be/wqlcbyo_2mk
 https://youtu.be/vY2-hj-HvVs   
 8.3 Review of string   
 https://youtu.be/qQj9ITD1Rh4   
+8.4 length   
+https://youtu.be/y4Ba01FvExo   
+8.6 Index    
+https://youtu.be/HwHYv_qX3ps   
+8.7 IndexError       
+https://youtu.be/FUWidort1gc  
+8.8 Indexing   
+https://youtu.be/ACvGn8MbH6M   
+8.9 Strings   
+https://youtu.be/rTVgzRVca0Q   
+8.10 Strings    
+https://youtu.be/Xb3447yz5c4   
+8.11 String and integer   
+https://youtu.be/dSxqPUv1tWs   
+8.12 String functions   
+https://youtu.be/D3jIW4RS69s    
+8.13 Boolean   
+https://youtu.be/B1kIBPjT1WE   
+https://youtu.be/3FpXa1hMC8U   
+8.15 List functions   
+https://youtu.be/VzsVyIY49bA    
+8.16 Mutable   
+https://youtu.be/muukYAt3hRI     
+8.19 While loop    
+https://youtu.be/Lo82OToBlEs   
+8.20 Infinite loop and break   
+https://youtu.be/pEcjVfDG-Jw   
+8.21 Practice: Number Prompt   
+https://youtu.be/OGk0yMXHVBw   
+https://youtu.be/ssNKIT_0hso    
+8.22 Find substring   
+https://youtu.be/Oui-JrPMxUk   
+8.26 More string methods   
+https://youtu.be/DSVmkhuLN0w    
+8.27 Concatenate   
+https://youtu.be/-RmlqIYam48   
 8.28 Practice: Making sentences     
 https://youtu.be/DnUBa-LUo3A
 
@@ -260,7 +332,14 @@ https://youtu.be/tLhTfSZ6LRA
 15.5 Execute program   
 https://youtu.be/cFwJ_MO3ofs   
 https://youtu.be/MRPdqOwnqag    
-
+15.7 Find the first link   
+https://youtu.be/Z-uuXDrMzqM  
+15.8 Find the first link: Try again   
+https://youtu.be/bsMtF-705EU   
+15.9 Execute the program   
+https://youtu.be/yGDHoIOfwt8   
+15.11 Summary   
+https://youtu.be/jiZwuN6zTFs   
 
 ## Fun results
 
@@ -285,7 +364,9 @@ Lesson 9 WeChat Friends Status Word Cloud
 <img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/wechatfriends_wordcloud_tiny.png?raw=true">
 
 Lesson 10 Play "Rock, Paper, Scissors" in Google Colab   
-<img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/2019-10-08%2010_02_12-2019-10-08%20Rock,%20Paper,%20Scissors.ipynb%20-%20Colaboratory.png?raw=true" width=300>
+<img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/2019-10-08%2010_02_12-2019-10-08%20Rock,%20Paper,%20Scissors.ipynb%20-%20Colaboratory.png?raw=true" width=300>   
+
+
 
 
 
