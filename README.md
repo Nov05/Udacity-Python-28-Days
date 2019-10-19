@@ -5,7 +5,8 @@
 ## Instructors: Karl Krueger, Kelly Howard
 
 This is a repository for Udacity online course **"Learn Python in 28 Days"**.     
-This course is designed for those who don't have any programming experience.   
+This course is designed for those who have no prior programming experience.   
+https://www.udacity.com/course/intro-to-programming-nanodegree--nd000     
 
 P.S. Udacity also provides a similar course **"Introduction to Python Programming"**. In that course, you will learn the fundamentals of the Python programming language, along with programming best practices.       
 https://www.udacity.com/course/introduction-to-python--ud1110   
