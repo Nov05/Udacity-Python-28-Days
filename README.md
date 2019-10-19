@@ -2,14 +2,17 @@
 
 <img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-10-19%2004_32_32-Introduction%20to%20Python%20Programming%20_%20Udacity.png?raw=true">  
 
+#### Instructors: Karl Krueger, Kelly Howard
+
 This is a repository for Udacity online course "Learn Python in 28 Days".   
 This course is designed for people who don't have any programming experience.  
 
-There is also a similar free course "Introduction to Python Programming". 
+P.S. There is also a similar free course "Introduction to Python Programming". In that course, you'll learn the fundamentals of the Python programming language, along with programming best practices.
 https://www.udacity.com/course/introduction-to-python--ud1110   
 
 
-#### Instructors: Karl Krueger, Kelly Howard
+
+
 
 ## :point_right: Fun results
 
