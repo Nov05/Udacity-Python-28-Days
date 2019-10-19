@@ -5,6 +5,32 @@ This course is designed for people who don't have any programming experience.
 
 Instructors: Karl Krueger, Kelly Howard
 
+## Fun results
+
+Afther Lesson 3, you will be able to draw the following shapes.
+<img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/rainbow-examples.png?raw=true">   
+
+Lesson 8 Silly Sentence Generator  
+```
+If you jumped the apple, the unicorn will get you.
+The yak jumped the goat.
+If you inked the x-ray, the house will get you.
+The monkey fed the llama.
+Waiter! I found a robot in my octopus!
+Waiter! I found a tofu in my x-ray!
+Colorless green x-rays rushed furiously.
+Waiter! I found a tofu in my goat!
+If you knitted the monkey, the tofu will get you.
+Colorless green unicorns caught furiously.
+```
+
+Lesson 9 WeChat Friends Status Word Cloud   
+<img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/wechatfriends_wordcloud_tiny.png?raw=true">
+
+Lesson 10 Play "Rock, Paper, Scissors" in Google Colab   
+<img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/2019-10-08%2010_02_12-2019-10-08%20Rock,%20Paper,%20Scissors.ipynb%20-%20Colaboratory.png?raw=true" width=300>   
+
+
 
 ## Course Content
 
@@ -51,7 +77,7 @@ https://youtu.be/1ZVBvM54hQw
 3.1 Welcome   
 https://youtu.be/_XOoHSQIkkw   
 3.3 Draw with Turtle  
-https://youtu.be/nBj8D_meKsA 
+https://youtu.be/nBj8D_meKsA   
 3.4 Variants  
 https://youtu.be/VPnV3RdoB7Q   
 3.5 Change color   
@@ -120,7 +146,7 @@ https://youtu.be/IPGCcHkgxUM
 5.14 if   
 https://youtu.be/UpujSAJZt5g   
 5.15 if-else   
-https://youtu.be/K3x-4gxoSNM 
+https://youtu.be/K3x-4gxoSNM   
 5.16 Stay on the screen         
 https://youtu.be/2nN3bK14H0U    
 5.17 Practice: vacuumTurtle   
@@ -235,7 +261,7 @@ https://youtu.be/aLxa050TV2s
 9.18 Read one word at a time   
 https://youtu.be/IO82p2b2bc4    
 9.19 Fix the punctuation bug      
-https://youtu.be/1naRrb3i28k
+https://youtu.be/1naRrb3i28k    
 9.20 Fix the uppercase bug      
 https://youtu.be/wn4RVpzIyo8   
 9.21 Write output into a file  
@@ -308,7 +334,8 @@ https://github.com/udacity/ipnd_rps_starter_code
 15.1 Practice: Wikepedia Crawler   
 https://youtu.be/osrplIl1m-k  
 15.2 Use development tool to explore HTML   
-anchor tag `<a href="https://en.wikipedia.org/wiki/Cat">Learn more about cats!</a>`        
+anchor tag    
+`<a href="https://en.wikipedia.org/wiki/Cat">Learn more about cats!</a>`        
 https://youtu.be/YWbCvLCBQrg     
 Use Python to get HTML 
 ```
@@ -340,32 +367,6 @@ https://youtu.be/bsMtF-705EU
 https://youtu.be/yGDHoIOfwt8   
 15.11 Summary   
 https://youtu.be/jiZwuN6zTFs   
-
-## Fun results
-
-Afther Lesson 3, you will be able to draw the following shapes.
-<img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/rainbow-examples.png?raw=true">   
-
-Lesson 8 Silly Sentence Generator  
-```
-If you jumped the apple, the unicorn will get you.
-The yak jumped the goat.
-If you inked the x-ray, the house will get you.
-The monkey fed the llama.
-Waiter! I found a robot in my octopus!
-Waiter! I found a tofu in my x-ray!
-Colorless green x-rays rushed furiously.
-Waiter! I found a tofu in my goat!
-If you knitted the monkey, the tofu will get you.
-Colorless green unicorns caught furiously.
-```
-
-Lesson 9 WeChat Friends Status Word Cloud   
-<img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/wechatfriends_wordcloud_tiny.png?raw=true">
-
-Lesson 10 Play "Rock, Paper, Scissors" in Google Colab   
-<img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/2019-10-08%2010_02_12-2019-10-08%20Rock,%20Paper,%20Scissors.ipynb%20-%20Colaboratory.png?raw=true" width=300>   
-
 
 
 
