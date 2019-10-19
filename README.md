@@ -7,10 +7,10 @@ Instructors: Karl Krueger, Kelly Howard
 
 ## Fun results
 
-Afther Lesson 3, you will be able to draw the following shapes.
+Afther **Lesson 3**, you will be able to draw the following shapes.
 <img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/rainbow-examples.png?raw=true">   
 
-Lesson 8 Silly Sentence Generator  
+#### Lesson 8 Silly Sentence Generator  
 ```
 If you jumped the apple, the unicorn will get you.
 The yak jumped the goat.
@@ -24,13 +24,14 @@ If you knitted the monkey, the tofu will get you.
 Colorless green unicorns caught furiously.
 ```
 
-Lesson 9 WeChat Friends Status Word Cloud   
+#### Lesson 9 WeChat Friends Status Word Cloud   
 <img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/wechatfriends_wordcloud_tiny.png?raw=true">
 
-Lesson 10 Play "Rock, Paper, Scissors" in Google Colab   
+#### Lesson 10 Play "Rock, Paper, Scissors" in Google Colab   
 <img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/2019-10-08%2010_02_12-2019-10-08%20Rock,%20Paper,%20Scissors.ipynb%20-%20Colaboratory.png?raw=true" width=300>   
 
-
+#### Lesson 15 Web Crawler  
+<img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-10-19%2004_23_25-2019-10-08%20Lesson%2015%20Web%20Crawler.ipynb%20-%20Colaboratory.png?raw=true" width=400>  
 
 ## Course Content
 
