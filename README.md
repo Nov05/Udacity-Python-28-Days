@@ -3,11 +3,11 @@
 This is a repository for Udacity online course "Learn Python in 28 Days".   
 This course is designed for people who don't have any programming experience.   
 
-Instructors: Karl Krueger, Kelly Howard
+#### Instructors: Karl Krueger, Kelly Howard
 
-## Fun results
+## :point_right: Fun results
 
-Afther **Lesson 3**, you will be able to draw the following shapes.
+#### Afther Lesson 3, you will be able to draw the following shapes.
 <img src="https://github.com/Nov05/Udacity-Python-28-Days/blob/master/images/rainbow-examples.png?raw=true">   
 
 #### Lesson 8 Silly Sentence Generator  
@@ -33,7 +33,7 @@ Colorless green unicorns caught furiously.
 #### Lesson 15 Web Crawler  
 <img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-10-19%2004_23_25-2019-10-08%20Lesson%2015%20Web%20Crawler.ipynb%20-%20Colaboratory.png?raw=true" width=400>  
 
-## Course Content
+## :point_right: Course Content
 
 Lesson 1 Pre-course   
 Lesson 2 Join student WeChat group   
@@ -53,7 +53,7 @@ Lesson 15 Practice: Web Crawler
 
 
 
-## Course Practice
+## :point_right: Course Practice
 Lesson 3 Turtle - Colab Notebook    
 https://colab.research.google.com/drive/1KMk72MX5igJiWGEZkIdvEzIZ7kg-hPo9   
 Lesson 6 Mortgage Calculator - Colab Notebook      
@@ -70,7 +70,7 @@ Lesson 15 Web Crawler
 https://colab.research.google.com/drive/16fJsaxO3WCfjIAUvSWRVqRXLYbFgAyv9    
 
 
-## Course Videos 
+## :point_right: Course Videos 
 
 1.2 Learning schedule   
 https://youtu.be/1ZVBvM54hQw    
