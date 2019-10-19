@@ -13,8 +13,6 @@ https://www.udacity.com/course/introduction-to-python--ud1110
 
 
 
-
-
 ## :point_right: Fun results
 
 #### Afther Lesson 3, you will be able to draw the following shapes.
