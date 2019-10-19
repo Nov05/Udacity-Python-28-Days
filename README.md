@@ -2,10 +2,10 @@
 
 <img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-10-19%2004_32_32-Introduction%20to%20Python%20Programming%20_%20Udacity.png?raw=true">  
 
-#### Instructors: Karl Krueger, Kelly Howard
+## Instructors: Karl Krueger, Kelly Howard
 
 This is a repository for Udacity online course "Learn Python in 28 Days".   
-This course is designed for people who don't have any programming experience.  
+This course is designed for those who don't have any programming experience.  
 
 P.S. There is also a similar free course "Introduction to Python Programming". In that course, you'll learn the fundamentals of the Python programming language, along with programming best practices.      
 https://www.udacity.com/course/introduction-to-python--ud1110   
@@ -63,6 +63,7 @@ Lesson 15 Practice: Web Crawler
 
 
 ## :point_right: Course Practice
+
 Lesson 3 Turtle - Colab Notebook    
 https://colab.research.google.com/drive/1KMk72MX5igJiWGEZkIdvEzIZ7kg-hPo9   
 Lesson 6 Mortgage Calculator - Colab Notebook      
@@ -70,7 +71,9 @@ https://colab.research.google.com/drive/1-LmSGX3F-sbWF0jLxA7naanz4gor3UR-
 Lesson 8 Silly Sentence Generator - Colab Notebook   
 https://drive.google.com/open?id=1clAAu4dFw7pauqX7fEFIDl7DXfspuwE5    
 Lesson 9 Analyse WeChat Friends - Colab Notebook   
-https://colab.research.google.com/drive/14b24yWmLVfPvnj-jN_hd4Jtl7Vg-QjPD    
+https://colab.research.google.com/drive/14b24yWmLVfPvnj-jN_hd4Jtl7Vg-QjPD   
+Lesson 11 Weather Forecast - Colab Notebook   
+https://colab.research.google.com/drive/1bgVnQeh3xL8_G__3KHLwQZ0PBKrs52R2     
 Lesson 13 Rock, Paper, Scissors - Colab Notebook    
 https://colab.research.google.com/drive/1JCQv3VcF_deTMjrxmhCJaNAGLf467diR      
 Lesson 14 Analyse Alipay Records - Colab Notebook    
